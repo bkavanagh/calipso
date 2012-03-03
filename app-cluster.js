@@ -3,7 +3,7 @@
  * NODE_ENV=production node app-cluster
  */
 var cluster = require('cluster');
-var port = 3000;
+var port = process.env.PORT || 3000;
 var path = __dirname;
 var app;
 
