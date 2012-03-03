@@ -44,7 +44,12 @@
     "nconf":"0.2.x",
     "twitter-node":"~0.0.2",
     "socket.io":"0.9.1-1",
-    "formidable":"1.0.9"
+    "formidable":"1.0.9",
+    "hooks":"0.2.0",
+    "async":"0.1.18",
+    "dnode":"0.9.6",
+    "eventemitter2":"0.4.8",
+    "pkginfo":"0.2.3"
   },
   "devDependencies": {
     "expresso": "0.8.x",
