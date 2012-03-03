@@ -43,7 +43,8 @@
     "rimraf":"1.0.x",
     "nconf":"0.2.x",
     "twitter-node":"~0.0.2",
-    "socket.io":"0.9.1-1"
+    "socket.io":"0.9.1-1",
+    "formidable":"1.0.9"
   },
   "devDependencies": {
     "expresso": "0.8.x",
